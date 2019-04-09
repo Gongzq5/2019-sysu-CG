@@ -1,2 +1,18 @@
-# 2019-sysu-CG
-The course project of SYSU, Computer Graphics, 2019.
+# 2019 SYSU CG 
+> 计算机图形学课程
+
+## 实验报告
+
+* 作业1
+* 作业2
+* 作业3
+* [作业4](https://gongzq5.github.io/2019-sysu-CG/hw4/)
+
+## 代码仓库
+
+* 作业1
+* 作业2
+* 作业3
+* 作业4
+
+
