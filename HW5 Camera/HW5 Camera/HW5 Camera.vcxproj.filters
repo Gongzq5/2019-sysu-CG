@@ -15,13 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\HW4 Transformation\HW4 Transformation\HW4 Transformation.vcxproj" />
-    <None Include="..\..\HW4 Transformation\HW4 Transformation\HW4 Transformation.vcxproj.filters" />
-    <None Include="..\..\HW4 Transformation\HW4 Transformation\HW4 Transformation.vcxproj.user" />
-    <None Include="..\..\HW4 Transformation\HW4 Transformation\imgui.ini" />
-    <None Include="imgui.ini" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Bresenham.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -53,6 +46,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="mUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
